@@ -5,6 +5,7 @@ The user enters the location in the input field and the program displays the tem
 The data is provided by Open-Meteo and is updated every hour.
 
 # How to use
+Because the node_module folders are to large, you still have to install them manually.
 To make React work you first need to create a React App
 For that you require Node >= 14.0.0 and npm >= 5.6
  
