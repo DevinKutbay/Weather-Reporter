@@ -30,5 +30,5 @@ After you have done that get out of the src folder
 and type
 "npm start"
 
-now finaly you can enjoy it
+now finally you can enjoy it
 
